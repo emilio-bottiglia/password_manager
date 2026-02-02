@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../100 Days of Code - The Complete Python Pro Bootcamp/.idea/100 Days of Code - The Complete Python Pro Bootcamp.iml" filepath="$PROJECT_DIR$/../100 Days of Code - The Complete Python Pro Bootcamp/.idea/100 Days of Code - The Complete Python Pro Bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Meta/.idea/Meta.iml" filepath="$PROJECT_DIR$/../Meta/.idea/Meta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day-30-pass-manager-improved-json/.idea/day-30-pass-manager-improved-json.iml" filepath="$PROJECT_DIR$/../day-30-pass-manager-improved-json/.idea/day-30-pass-manager-improved-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day-72-data-exploration-with-pandas/.idea/day-72-data-exploration-with-pandas.iml" filepath="$PROJECT_DIR$/../day-72-data-exploration-with-pandas/.idea/day-72-data-exploration-with-pandas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pandas/.idea/pandas.iml" filepath="$PROJECT_DIR$/../pandas/.idea/pandas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/password_manager.iml" filepath="$PROJECT_DIR$/.idea/password_manager.iml" />
+    </modules>
+  </component>
+</project>
